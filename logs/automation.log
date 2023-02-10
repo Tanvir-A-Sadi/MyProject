@@ -1,0 +1,88 @@
+15:32:13.130 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+15:32:14.115 [main] INFO  testCases.TC_003_DDD -  Finished TC_003_LoginDataDrivenTest
+15:32:14.125 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+15:32:24.378 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+15:32:34.618 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+15:32:44.864 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+15:41:11.184 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+15:41:11.827 [main] INFO  testCases.TC_003_DDD -  Finished TC_003_LoginDataDrivenTest
+15:41:11.837 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+15:41:22.093 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+15:41:32.322 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+15:41:42.513 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+16:01:58.300 [main] INFO  testCases.TC_001_AccountRegistration - ***     Starting TC_001       ***
+16:01:59.030 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked on My account and Register       ***
+16:02:01.853 [main] INFO  testCases.TC_001_AccountRegistration - ***     Input user data and clicked continue      ***
+16:02:01.896 [main] INFO  testCases.TC_001_AccountRegistration - ***   Registration Confirmed   ***
+16:02:02.110 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Logout       ***
+16:02:02.144 [main] INFO  testCases.TC_001_AccountRegistration - ***     Logout Confirmed      ***
+16:02:02.359 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Continue       ***
+16:02:02.359 [main] INFO  testCases.TC_001_AccountRegistration - ***     Test Passed!       ***
+16:02:03.816 [main] INFO  testCases.TC_002_LoginTest - ***     Sarting TC_002     ***
+16:02:04.298 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on login from HomePage      ***
+16:02:04.406 [main] INFO  testCases.TC_002_LoginTest - ***     Input All Values     ***
+16:02:04.616 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on Login     ***
+16:02:04.619 [main] INFO  testCases.TC_002_LoginTest - ***     Inside MyAccount Page     ***
+16:02:04.825 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked logout     ***
+16:25:12.631 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+16:25:14.907 [main] INFO  testCases.TC_003_DDD -  Finished TC_003_LoginDataDrivenTest
+16:25:14.932 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+16:25:25.533 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+16:25:35.962 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+16:25:46.313 [main] INFO  testCases.TC_003_DDD -  Starting TC_003_LoginDataDrivenTest 
+16:26:46.180 [main] INFO  testCases.TC_001_AccountRegistration - ***     Starting TC_001       ***
+16:26:47.032 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked on My account and Register       ***
+16:26:49.951 [main] INFO  testCases.TC_001_AccountRegistration - ***     Input user data and clicked continue      ***
+16:26:49.990 [main] INFO  testCases.TC_001_AccountRegistration - ***   Registration Confirmed   ***
+16:26:50.216 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Logout       ***
+16:26:50.251 [main] INFO  testCases.TC_001_AccountRegistration - ***     Logout Confirmed      ***
+16:26:50.469 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Continue       ***
+16:26:50.470 [main] INFO  testCases.TC_001_AccountRegistration - ***     Test Passed!       ***
+16:26:52.062 [main] INFO  testCases.TC_002_LoginTest - ***     Sarting TC_002     ***
+16:26:52.773 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on login from HomePage      ***
+16:26:52.933 [main] INFO  testCases.TC_002_LoginTest - ***     Input All Values     ***
+16:26:53.271 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on Login     ***
+16:26:53.273 [main] INFO  testCases.TC_002_LoginTest - ***     Inside MyAccount Page     ***
+16:26:53.562 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked logout     ***
+16:58:46.740 [main] INFO  testCases.TC_001_AccountRegistration - ***     Starting TC_001       ***
+16:58:48.271 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked on My account and Register       ***
+16:58:52.020 [main] INFO  testCases.TC_001_AccountRegistration - ***     Input user data and clicked continue      ***
+16:58:52.102 [main] INFO  testCases.TC_001_AccountRegistration - ***   Registration Confirmed   ***
+16:58:52.610 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Logout       ***
+16:58:52.690 [main] INFO  testCases.TC_001_AccountRegistration - ***     Logout Confirmed      ***
+16:58:53.230 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Continue       ***
+16:58:53.231 [main] INFO  testCases.TC_001_AccountRegistration - ***     Test Passed!       ***
+16:58:56.522 [main] INFO  testCases.TC_002_LoginTest - ***     Sarting TC_002     ***
+16:58:57.910 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on login from HomePage      ***
+16:58:58.213 [main] INFO  testCases.TC_002_LoginTest - ***     Input All Values     ***
+16:58:58.851 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on Login     ***
+16:58:58.858 [main] INFO  testCases.TC_002_LoginTest - ***     Inside MyAccount Page     ***
+16:58:59.444 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked logout     ***
+17:03:33.077 [main] INFO  testCases.TC_001_AccountRegistration - ***     Starting TC_001       ***
+17:03:33.848 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked on My account and Register       ***
+17:03:36.703 [main] INFO  testCases.TC_001_AccountRegistration - ***     Input user data and clicked continue      ***
+17:03:36.751 [main] INFO  testCases.TC_001_AccountRegistration - ***   Registration Confirmed   ***
+17:03:36.971 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Logout       ***
+17:03:37.011 [main] INFO  testCases.TC_001_AccountRegistration - ***     Logout Confirmed      ***
+17:03:37.320 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Continue       ***
+17:03:37.320 [main] INFO  testCases.TC_001_AccountRegistration - ***     Test Passed!       ***
+17:03:39.057 [main] INFO  testCases.TC_002_LoginTest - ***     Sarting TC_002     ***
+17:03:39.783 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on login from HomePage      ***
+17:03:39.945 [main] INFO  testCases.TC_002_LoginTest - ***     Input All Values     ***
+17:03:40.291 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on Login     ***
+17:03:40.293 [main] INFO  testCases.TC_002_LoginTest - ***     Inside MyAccount Page     ***
+17:03:40.633 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked logout     ***
+17:13:59.949 [main] INFO  testCases.TC_001_AccountRegistration - ***     Starting TC_001       ***
+17:14:01.509 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked on My account and Register       ***
+17:14:05.156 [main] INFO  testCases.TC_001_AccountRegistration - ***     Input user data and clicked continue      ***
+17:14:05.242 [main] INFO  testCases.TC_001_AccountRegistration - ***   Registration Confirmed   ***
+17:14:05.695 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Logout       ***
+17:14:05.763 [main] INFO  testCases.TC_001_AccountRegistration - ***     Logout Confirmed      ***
+17:14:06.299 [main] INFO  testCases.TC_001_AccountRegistration - ***     Clicked Continue       ***
+17:14:06.299 [main] INFO  testCases.TC_001_AccountRegistration - ***     Test Passed!       ***
+17:14:09.374 [main] INFO  testCases.TC_002_LoginTest - ***     Sarting TC_002     ***
+17:14:10.667 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on login from HomePage      ***
+17:14:11.038 [main] INFO  testCases.TC_002_LoginTest - ***     Input All Values     ***
+17:14:11.598 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked on Login     ***
+17:14:11.602 [main] INFO  testCases.TC_002_LoginTest - ***     Inside MyAccount Page     ***
+17:14:12.215 [main] INFO  testCases.TC_002_LoginTest - ***     Clicked logout     ***
